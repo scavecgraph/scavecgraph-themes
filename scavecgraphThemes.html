@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Scavecgraph Themes</title>
+        <style>
+            .black{
+                color:#000000;
+            }
+            .white{
+                color:#ffffff;
+            }
+            li::marker {
+                color: #0178af;
+            }
+            .theme_hexColor{
+                font-weight:bold;
+                cursor:pointer;
+            }
+            .theme_theme{
+                font-weight:bold;
+                cursor:move;
+            }            
+        </style>
+        <script src="jquery.js"></script>
+        <script src="jquery-ui.js"></script>
+        <script src="themes.js"></script>
+        <script>
+            function viewTheme(themeDir){
+                window.open(themeDir+"/index.html", "mozillaTab");
+            }
+            
+            $(document).ready(function () {
+                $.getJSON('themes.js', function(json) {
+                    // theme color hexColor
+                    $.each(json, function(index, value) {
+                        console.log(index + ": " + value.theme + " - " + hexColorLight(value.hexColor));
+                        var textClass = hexColorLight(value.hexColor);
+                        var themeLook = value.theme.indexOf('glass') !== -1 ? 'Glass' : 'Flat';
+                        var hexColorTitle = "View " + themeLook + " Theme";
+                        console.log(themeLook);
+                        $("#sortable").append('<li class="ui-state-default class="theme"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span><span title="' + hexColorTitle + '" onclick="viewTheme(\'' + value.theme + '\');" class="theme_hexColor" style="width:50px !important;color:' + value.hexColor + ';margin-right:5px;display:none;">' + value.hexColor + '</span><span title="Re-Order Theme" style="background-color:' + value.hexColor + ';padding-left:5px;padding-right:5px;" class="theme_theme ' + textClass + '">' + value.theme + '</span></li>');
+                    });   
+                    $("#sortable").sortable();
+                });
+            });
+            
+            function hexColorLight(color) {
+                const hex = color.replace('#', '');
+                const c_r = parseInt(hex.substring(0, 0 + 2), 16);
+                const c_g = parseInt(hex.substring(2, 2 + 2), 16);
+                const c_b = parseInt(hex.substring(4, 4 + 2), 16);
+                const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+                return brightness > 155 ? 'black' : 'white';
+            }
+        </script>
+    </head>
+    <body>
+        <ol id="sortable">
+<!--            <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 1</li>-->
+        </ol>
+    </body>
+</html>

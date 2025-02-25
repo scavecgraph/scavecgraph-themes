@@ -1,0 +1,472 @@
+blue
+#0000ff def tool
+#8e8ef7 act hov
+#cecef9 over
+blue-0000ff-8e8ef7-cecef9
+
+darkmagenta
+#8b008b def tool
+#da08da act hov
+#fab9fa over
+darkmagenta-8b008b-da08da-fab9fa
+
+darkblue	
+#00008b def tool
+#6f6ff7 act hov
+#c8c8fa over
+darkblue-00008b-6f6ff7-c8c8fa
+
+darkgreen	
+#006400 def tool
+#0cbc0c act hov
+#b7fcb7 over
+darkgreen-006400-0cbc0c-b7fcb7
+
+darkred	
+#8b0000 def tool
+#ee4545 act hov
+#f6c7c7 over
+darkred-8b0000-ee4545-f6c7c7
+
+purple	
+#800080 def tool
+#f444f4 act hov
+#f8caf8 over
+purple-800080-f444f4-f8caf8
+
+black
+#000000 def tool
+#888888 act hov
+#eeeeee over
+black-000000-888888-eeeeee
+
+brown
+#a52a2a def tool
+#d79494 act hov
+#e7cccc over
+brown-a52a2a-d79494-e7cccc
+
+green
+#008000 def tool
+#7dcb7d act hov
+#cfe3cf over
+green-008000-7dcb7d-cfe3cf
+
+goldenrod
+#daa520 def tool
+#ba8d18 act hov
+#f2ead5 over
+goldenrod-daa520-ba8d18-f2ead5
+
+indigo
+#4b0082 def tool
+#b25cf1 act hov
+#e4cdf5 over
+indigo-4b0082-b25cf1-e4cdf5
+
+burlywood
+#deb887 def tool
+#c58431 act hov
+#f4eadd over
+burlywood-deb887-c58431-f4eadd
+
+darkolivegreen
+#556b2f def tool
+#a4b880 act hov
+#d9dfcf over
+darkolivegreen-556b2f-a4b880-d9dfcf
+
+darkslateblue
+#483d8b def tool
+#a097d4 act hov
+#d7d4e9 over
+darkslateblue-483d8b-a097d4-d7d4e9
+
+deeppink
+#ff1493 def tool
+#f88cc7 act hov
+#fbdcec over
+deeppink-ff1493-f88cc7-fbdcec
+
+darkcyan
+#008b8b def tool
+#17cbcb act hov
+#c6f7f7 over
+darkcyan-008b8b-17cbcb-c6f7f7
+
+crimson
+#dc143c def tool
+#ee9cac act hov
+#f1c6cf over
+crimson-dc143c-ee9cac-f1c6cf
+
+blueviolet
+#8a2be2 def tool
+#c799f0 act hov
+#e9d9f8 over
+blueviolet-8a2be2-c799f0-e9d9f8
+
+chocolate
+#d2691e def tool
+#eeb992 act hov
+#f7e3d5 over
+chocolate-d2691e-eeb992-f7e3d5
+
+coral
+#ff7f50 def tool
+#f44607 act hov
+#f6dbd1 over
+coral-ff7f50-fa4f11-f6dbd1
+
+darkorange
+#ff8c00 def tool
+#fac88b act hov
+#fcead5 over
+darkorange-ff8c00-fac88b-fcead5
+
+cadetblue
+#5f9ea0 def tool
+#478486 act hov
+#cfe3e4 over
+cadetblue-5f9ea0-478486-cfe3e4
+
+cornflowerblue
+#6495ed def tool
+#1a5fdc act hov
+#cfdef8 over
+cornflowerblue-6495ed-1a5fdc-cfdef8
+
+darkgoldenrod
+#b8860b def tool
+#f2c556 act hov
+#f6e9c6 over
+darkgoldenrod-b8860b-f2c556-f6e9c6
+
+darkorchid
+#9932cc def tool
+#ca96e4 act hov
+#e9d4f3 over
+darkorchid-9932cc-ca96e4-e9d4f3
+
+darksalmon
+#e9967a def tool
+#dd6842 act hov
+#f6dad1 over
+darksalmon-e9967a-dd6842-f6dad1
+
+darkslategray
+#2f4f4f def tool
+#67a3a3 act hov
+#e3efef over
+darkslategray-2f4f4f-67a3a3-e3efef
+
+darkturquoise
+#00ced1 def tool
+#04b2b5 act hov
+#c5e9e9 over
+darkturquoise-00ced1-04b2b5-c5e9e9
+
+darkviolet
+#9400d3 def tool
+#da89fc act hov
+#f2dafd over
+darkviolet-9400d3-da89fc-f2dafd
+
+deepskyblue
+#00bfff def tool
+#049fd4 act hov
+#c4effe over
+#03b0ea text
+deepskyblue-00bfff-049fd4-c4effe
+
+dimgrey
+#696969 def tool
+#adaaaa act hov
+#eeeeee over
+dimgrey-696969-adaaaa-eeeeee
+
+dodgerblue
+#1e90ff def tool
+#0e87fd act hov
+#d8ebfe over
+#03b0ea text
+dodgerblue-1e90ff-0e87fd-d8ebfe
+
+firebrick
+#b22222 def tool
+#e58b8b act hov
+#f3d6d6 over
+firebrick-b22222-e58b8b-f3d6d6
+
+forestgreen
+#228b22 def tool
+#77d477 act hov
+#d0f0d0 over
+forestgreen-228b22-77d477-d0f0d0
+
+fuchsia
+#ff00ff def tool
+#fd96fd act hov
+#fdcdfd over
+fuchsia-ff00ff-fd96fd-fdcdfd
+
+hotpink
+#ff69b4 def tool
+#fa3798 act hov
+#fcd3e8 over
+text #fa3798
+hotpink-ff69b4-fa3798-fcd3e8
+
+indianred
+#cd5c5c def tool
+#b33939 act hov
+#f1d6d6 over
+indianred-cd5c5c-b33939-f1d6d6
+
+maroon
+#800000 def tool
+#e44d4d act hov
+#f9dbdb over
+maroon-800000-e44d4d-f9dbdb
+
+mediumblue
+#0000cd def tool
+#7474fa act hov
+#d4d4fb over
+mediumblue-0000cd-7474fa-d4d4fb
+
+midnightblue
+#191970 def tool
+#6e6edd act hov
+#dadaf5 over
+midnightblue-191970-6e6edd-dadaf5
+
+olive
+#808000 def tool
+#c8c831 act hov
+#f2f2c4 over
+olive-808000-c8c831-f2f2c4
+
+olivedrab
+#6b8e23 def tool
+#b5c98c act hov
+#e9f0da over
+olivedrab-6b8e23-b5c98c-e9f0da
+
+orange
+#ffa500 def tool
+#e69404 act hov
+#f2e3c9 over
+#ed9a03 text
+orange-ffa500-e69404-f2e3c9
+
+orangered
+#ff4500 def tool
+#fda380 act hov
+#f5cfc0 over
+orangered-ff4500-fda380-f5cfc0
+
+orchid
+#da70d6 def tool
+#ecb5eb act hov
+#f4dcf3 over
+#d463d0 text
+orchid-da70d6-ecb5eb-f4dcf3
+
+palevioletred
+#db7093 def tool
+#eab2c4 act hov
+#f5dae3 over
+#d65c84 text
+palevioletred-db7093-eab2c4-f5dae3
+
+peru
+#cd853f def tool
+#e6bd92 act hov
+#ebd3bb over
+#ca7f35 text
+peru-cd853f-e6bd92-ebd3bb
+
+rebeccapurple
+#663399 def tool
+#b28cd8 act hov
+#e3d6ef over
+rebeccapurple-663399-b28cd8-e3d6ef
+
+red
+#ff0000 def tool
+#f78c8c act hov
+#f4c7c7 over
+red-ff0000-f78c8c-f4c7c7
+
+royalblue
+#4169e1 def tool
+#a1b5f1 act hov
+#c6d1f5 over
+royalblue-4169e1-a1b5f1-c6d1f5
+
+saddlebrown
+#8b4513 def tool
+#d07331 act hov
+#f7dac6 over
+saddlebrown-8b4513-d07331-f7dac6
+
+salmon
+#fa8072 def tool
+#fbbdb7 act hov
+#fadbd7 over
+#fb7262 text
+salmon-fa8072-fbbdb7-fadbd7
+
+sandybrown
+#f4a460 def tool
+#eb7c1d act hov
+#fbe9da over
+#eb842d text
+sandybrown-f4a460-eb7c1d-fbe9da
+
+seagreen
+#2e8b57 def tool
+#70c796 act hov
+#ccead9 over
+08:46 2025/02/08
+
+sienna
+#a0522d def tool
+#d89a7d act hov
+#eed7cd over
+sienna-a0522d-d89a7d-eed7cd
+
+skyblue
+#87ceeb def tool
+#59bbe2 act hov
+#d6ecf4 over
+#3cafdc text
+skyblue-87ceeb-59bbe2-d6ecf4
+
+slateblue
+#6a5acd def tool
+#aaa1e2 act hov
+#e0dcf3 over
+slateblue-6a5acd-aaa1e2-e0dcf3
+
+slategrey
+#708090 def tool
+#b0b9c0 act hov
+#e1e3e6 over
+slategrey-708090-b0b9c0-e1e3e6
+
+steelblue
+#4682b4 def tool
+#9fbed9 act hov
+#d4e1ec over
+steelblue-4682b4-9fbed9-d4e1ec
+
+tan
+#d2b48c def tool
+#bf9358 act hov
+#ede2d3 over
+tan-d2b48c-bf9358-ede2d3
+
+teal
+#008080 def tool
+#55c3c3 act hov
+#dbf9f9 over
+teal-008080-55c3c3-dbf9f9
+
+tomato
+#ff6347 def tool
+#f8b6aa act hov
+#f8d8d2 over
+#ff6347 text
+tomato-ff6347-f8b6aa-f8d8d2
+
+turquoise
+#40e0d0 def tool
+#18c8b7 act hov
+#cfebe9 over
+#2cafa2 text
+turquoise-40e0d0-18c8b7-cfebe9
+
+violet
+#ee82ee def tool
+#e655e6 act hov
+#f6daf6 over
+#e85fe8 text
+violet-ee82ee-e655e6-f6daf6
+
+yellow
+#ffff00 def tool
+#7ca625 act hov
+#dcecbb over
+yellow-ffff00-7ca625-dcecbb
+
+yellowgreen
+#9acd32 def tool
+#7ca625 act hov
+#dcecbb over
+#88b52b text
+yellowgreen-9acd32-7ca625-dcecbb
+
+darkblue
+#00008b def tool
+#6d6dd3 act hov
+#dcdcf9 over
+darkblue-00008b-6d6dd3-dcdcf9
+
+darkkhaki
+#bdb76b def tool
+#aea527 act hov
+#e3e1c4 over
+#aea751 text
+darkkhaki-bdb76b-aea527-e3e1c4
+
+darkseagreen
+#8fbc8f def tool
+#62a262 act hov
+#d7e9d7 over
+darkseagreen-8fbc8f-62a262-d7e9d7
+
+darkturquoise
+#00ced1 def tool
+#02bbbf act hov
+#c5fafb over
+#00b5b7 text
+darkturquoise-00ced1-02bbbf-c5fafb
+
+gray
+#808080 def tool
+#bab9b9 act hov
+#eeeeee over
+gray-808080-bab9b9-eeeeee
+
+lightcoral
+#f08080 def tool
+#e85d5d act hov
+#f9dbdb over
+lightcoral-f08080-e85d5d-f9dbdb
+
+rosybrown
+#bc8f8f def tool
+#af7373 act hov
+#e9dcdc over
+#b37f7f text
+rosybrown-bc8f8f-af7373-e9dcdc
+
+ def tool
+ act hov
+ over
+
+
+ def tool
+ act hov
+ over
+
+ def tool
+ act hov
+ over
+
+
+ def tool
+ act hov
+ over
